@@ -36,11 +36,13 @@
 ### 📌 프로젝트 정보 (Project Info)
 - **프로젝트 주제**: VGA 기반 야구 자동 심판 (ABS: Automatic Ball-Strike) 시스템  
 - **진행 기간**: 25.09.01 ~ 25.09.29  
+- **팀명**: 와인드업   
 - **구성원**: 박지훈(팀장), 변준섭, 김지석, 정지원, 최지우, 윤의빈(발표자), 정민교, 장환
 
 ---------------------------------------------------  
 - **Project Title**: VGA-based Baseball ABS (Automatic Ball-Strike) System  
 - **Duration**: 25.09.01 ~ 25.09.29  
+- **Team Name**: Wind Up
 - **Members**: Park Jihun(Team Leader), Byun Junseob, Kim Jiseok, Jung Jiwon, Choi Jiwoo, Yun Euibin(Representator), {정민교 영어}, {장환 영어}
 
 ---
