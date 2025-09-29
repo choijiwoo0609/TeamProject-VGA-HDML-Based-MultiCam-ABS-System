@@ -20,6 +20,12 @@
 
 ---
 
+### 🔲 FPGA 보드 (FPGA Boards)
+![Basys3](https://img.shields.io/badge/FPGA-Basys3-1E90FF?style=flat&logo=amd&logoColor=white)
+![Zybo-Z7-20](https://img.shields.io/badge/FPGA-Zybo--Z7--20-228B22?style=flat&logo=xilinx&logoColor=white)
+
+---
+
 ### ⚙️ 개발환경 (Development Environment)
 ![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=flat&logo=windows&logoColor=white)
 ![Python 3.9](https://img.shields.io/badge/Python-3.9-FFD43B?style=flat&logo=python&logoColor=3776AB)
