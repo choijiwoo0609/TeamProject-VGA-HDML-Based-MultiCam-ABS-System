@@ -18,7 +18,11 @@
 ![Logic Analyzer](https://img.shields.io/badge/Logic-Analyzer-696969?style=flat&logo=oscilloscope&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-**사용 FPGA 보드**: Basys3, Zybo-Z7-20
+---
+
+### ⚙️ 개발환경 (Development Environment)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=flat&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
@@ -30,16 +34,32 @@
 ---
 
 ### 📌 프로젝트 정보 (Project Info)
-- **프로젝트 주제**: VGA/HDMI 기반 야구 자동 심판 (ABS: Automatic Ball-Strike) 시스템  
+- **프로젝트 주제**: VGA 기반 야구 자동 심판 (ABS: Automatic Ball-Strike) 시스템  
 - **진행 기간**: 25.09.01 ~ 25.09.29  
-- **구성원**: 박지훈(팀장), 변준섭, 김지석, 정지원, 최지우, 윤의빈(발표자), 정민교, 장환  
+- **구성원**: 박지훈(팀장), 변준섭, 김지석, 정지원, 최지우, 윤의빈(발표자), 정민교, 장환
 
 ---------------------------------------------------  
-- **Project Title**: VGA/HDMI-based Baseball ABS (Automatic Ball-Strike) System  
+- **Project Title**: VGA-based Baseball ABS (Automatic Ball-Strike) System  
 - **Duration**: 25.09.01 ~ 25.09.29  
-- **Members**: Park Jihun(Team Leader), Byun Junseob, Kim Jiseok, Jung Jiwon, Choi Jiwoo, Yun Euibin(Representator), Jeong Mingyo, Jang Hwan  
+- **Members**: Park Jihun(Team Leader), Byun Junseob, Kim Jiseok, Jung Jiwon, Choi Jiwoo, Yun Euibin(Representator), {정민교 영어}, {장환 영어}
+
+---
+
+## 🚀 주요 업무 (Main Works)
+- ROM 이미지 출력 → VGA/HDMI 디스플레이 전송 (640×480 해상도)   
+- RGB 조건 기반 크로마키(Chroma Key) 인식 적용  
+- HSV 조건 기반 공 색상 및 타자 모자 색상 인식 적용  
+- VGA 컨트롤러 기반 출력 (Basys3)  
+- TMDS 인코딩을 통한 HDMI 출력 (Zybo-Z7-20)  
+- ILA(Logic Analyzer)를 통한 신호 디버깅  
+- NRF24 RF 소자를 이용한 FPGA 보드 간에 무선 데이터 송수신  
+- UART를 통한 FPGA ↔ PC 데이터 연동  
+- PyQt5 GUI 기반 스트라이크/볼/아웃 상태 표시  
+
 
 ---
 
 ## 📷 시연 화면 (Demo)
 ![Demo Image](images/demo.png)
+
+---
