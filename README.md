@@ -9,7 +9,7 @@
 ### 📕 언어 (Languages)
 ![Verilog](https://img.shields.io/badge/Verilog-HDL-008B8B?style=flat&logo=verilog&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-HDL-4682B4?style=flat&logo=verilog&logoColor=white)
-![Python GUI](https://img.shields.io/badge/Python-GUI-3776AB?style=flat&logo=python&logoColor=white)
+![Python GUI](https://img.shields.io/badge/Python-GUI-FFD43B?style=flat&logo=python&logoColor=3776AB)
 
 ---
 
