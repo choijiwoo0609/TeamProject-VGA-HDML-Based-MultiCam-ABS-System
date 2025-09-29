@@ -9,7 +9,7 @@
 ### 📕 언어 (Languages)
 ![Verilog](https://img.shields.io/badge/Verilog-HDL-008B8B?style=flat&logo=verilog&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-HDL-4682B4?style=flat&logo=verilog&logoColor=white)
-
+![Python GUI](https://img.shields.io/badge/Python-GUI-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
@@ -22,8 +22,7 @@
 
 ### ⚙️ 개발환경 (Development Environment)
 ![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=flat&logo=windows&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=flat&logo=python&logoColor=white)
-
+![Python 3.9](https://img.shields.io/badge/Python-3.9-FFD43B?style=flat&logo=python&logoColor=3776AB)
 ---
 
 ### 🏫 교육 정보 (Education Info)
