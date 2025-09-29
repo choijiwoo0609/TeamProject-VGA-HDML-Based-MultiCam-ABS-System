@@ -15,7 +15,7 @@
 
 ### 🔧 툴 (Tools)
 ![Vivado](https://img.shields.io/badge/Xilinx-Vivado-FF8C00?style=flat&logo=xilinx&logoColor=white)
-![Logic Analyzer](https://img.shields.io/badge/Logic-Analyzer-696969?style=flat&logo=oscilloscope&logoColor=white)
+![Logic Analyzer](https://img.shields.io/badge/Logic-Analyzer-800080?style=flat&logo=oscilloscope&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -28,7 +28,7 @@
 
 ### 🏫 교육 정보 (Education Info)
 - 교육명: 대한상공회의소 서울기술교육센터  
-- 과정: AI 시스템반도체설계 2기  
+- 과정: AI 시스템반도체 설계 2기  
 - 과목: 영상처리 기반 SoC 프로젝트  
 
 ---
