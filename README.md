@@ -62,6 +62,6 @@
 ---
 
 ## 📷 시연 화면 (Demo)
-![Demo Image](images/demo.png)
+![Demo Image](resource/ppt/발표용/image61.gif)
 
 ---
