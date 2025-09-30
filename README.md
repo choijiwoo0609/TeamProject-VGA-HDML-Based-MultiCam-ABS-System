@@ -1,3 +1,10 @@
+---
+
+## 📷 시연 화면 (Demo)
+![Demo Image](resource/ppt/발표용/image61.gif)
+
+---
+
 ![대한상공회의소](https://img.shields.io/badge/대한상공회의소_서울기술교육센터-003366?style=flat&logo=git&logoColor=1E90FF)
 ![과정: AI 시스템반도체설계 2기](https://img.shields.io/badge/과정-AI%20시스템반도체설계%202기-FFD700?style=flat&logo=github&logoColor=FFD700)
 ![과목: 영상처리 기반 SoC 프로젝트](https://img.shields.io/badge/과목-영상처리%20기반%20SoC%20프로젝트-4CAF50?style=flat&logo=databricks&logoColor=white)
@@ -58,10 +65,3 @@
 - UART를 통한 FPGA ↔ PC 데이터 연동  
 - PyQt5 GUI 기반 스트라이크/볼/아웃 상태 표시  
 
-
----
-
-## 📷 시연 화면 (Demo)
-![Demo Image](resource/ppt/발표용/image61.gif)
-
----
