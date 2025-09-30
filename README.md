@@ -43,7 +43,7 @@
 - **Project Title**: VGA-based Baseball ABS (Automatic Ball-Strike) System  
 - **Duration**: 25.09.01 ~ 25.09.29  
 - **Team Name**: Wind Up
-- **Members**: Park Jihun(Team Leader), Byun Junseob, Kim Jiseok, Jung Jiwon, Choi Jiwoo, Yun Euibin(Representator), {정민교 영어}, {장환 영어}
+- **Members**: Park Jihun(Team Leader), Byun Junseob, Kim Jiseok, Jung Jiwon, Choi Jiwoo, Yun Euibin(Presentator), {정민교 영어}, {장환 영어}
 
 ---
 
